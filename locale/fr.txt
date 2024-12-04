@@ -1,0 +1,14 @@
+#: locale=fr
+
+## Media
+
+### Title
+panorama_7C297C46_76F7_E285_41DC_794C01C1A3AB.label = ENTREE
+panorama_7A97567F_76F7_EE83_41AE_F4F96AF0DCE1.label = _FLOW_360_
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 11
